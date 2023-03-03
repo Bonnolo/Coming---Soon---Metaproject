@@ -3,7 +3,7 @@ Coming soon page forNexhool (metaproject)
 
 Singolo Dante
 
-Featuring: 
+Featuring: <br>
 Patricia Caballes; <br>
 John Marco Tolentino;<br>
 Orlando Iannarone;<br>
