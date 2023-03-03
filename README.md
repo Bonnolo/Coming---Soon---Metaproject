@@ -4,8 +4,8 @@ Coming soon page forNexhool (metaproject)
 Singolo Dante
 
 Featuring: 
-Patricia Caballes;
-John Marco Tolentino;
-Orlando Iannarone;
-Fabio Alberto Bonetti;
-Massinissa Allam;
+Patricia Caballes; <br>
+John Marco Tolentino;<br>
+Orlando Iannarone;<br>
+Fabio Alberto Bonetti;<br>
+Massinissa Allam;<br>
