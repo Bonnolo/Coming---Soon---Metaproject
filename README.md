@@ -1,5 +1,5 @@
 # Coming---Soon---Metaproject
-Coming soon page forNexhool (metaproject)
+Coming soon page for Nexhool (metaproject)
 
 Singolo Dante
 
