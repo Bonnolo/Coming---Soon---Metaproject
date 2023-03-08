@@ -41,19 +41,15 @@
 /* MOBILE */
 @media (max-width:768px) {
     .container{
-        background-image: none;
-    }
-
-    .container{
         display: flex;
         justify-content: center;
+        background-image: none;
        
     }
     .logo{
         justify-content: center;
         margin: 0px;
     }
-
-    
+  
 }
 
