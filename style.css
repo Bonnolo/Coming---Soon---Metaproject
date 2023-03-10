@@ -18,6 +18,11 @@
     justify-content: flex-end;
     height: 100vh;
 }
+
+.container.hide {
+    background-image: none;
+}
+
 .logo{
     margin-right: 4rem;
     display: flex;
@@ -50,7 +55,31 @@ a:hover .foglia{
     fill: #262626;
     transition: all 0.4s ease;
 }
-
+.social-container{
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.social img{
+    width: 85px;
+    height: 85px;  
+}
+.social{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5.5rem;
+    background-color: red;
+    height: 100%;
+    width: 100%;
+}
+.active{
+    display: block;
+}
+.invis {
+    opacity: 0;
+}
 
 /* MOBILE */
 @media (max-width:768px) {

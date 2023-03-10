@@ -124,7 +124,15 @@ window.addEventListener("load", (event) => {
 
 // in use
 
-let selected = document.querySelector("cont-foglia");
-selected.addEventListener("click", function () {
-  selected.classList.toggle("social-active");
+let leaf = document.querySelector("#foglia");
+let social = document.querySelector(".social-container");
+let container = document.querySelector(".container");
+
+leaf.addEventListener("click", function () {
+  social.classList.toggle("active");
+
+  document.querySelector(".logo img").classList.toggle("invis");
+  document.querySelector(".logo p").classList.toggle("invis");
+
+  container.classList.toggle("hide");
 });
