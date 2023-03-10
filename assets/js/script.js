@@ -127,12 +127,12 @@ window.addEventListener("load", (event) => {
 let leaf = document.querySelector("#foglia");
 let social = document.querySelector(".social-container");
 let container = document.querySelector(".container");
+let logo = document.querySelector(".logo img");
+let p = document.querySelector(".logo p");
 
 leaf.addEventListener("click", function () {
   social.classList.toggle("active");
-
-  document.querySelector(".logo img").classList.toggle("invis");
-  document.querySelector(".logo p").classList.toggle("invis");
-
+  logo.classList.toggle("invis");
+  p.classList.toggle("invis");
   container.classList.toggle("hide");
 });
